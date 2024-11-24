@@ -1,0 +1,53 @@
+#EXTM3U
+x-tvg-url="http://indtv.me/guide.gz"
+
+#EXTINF:-1 tvg-id="567" group-title="Discovery" tvg-language="English" tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg",Animal Planet English
+https://localhost:8080/animal_planet_hd_english.m3u8
+
+#EXTINF:-1 tvg-id="566" group-title="Discovery" tvg-language="Hindi" tvg-logo="https://te.legra.ph/file/eeb9121dfacd1fde5476e.jpg",Animal Planet Hindi
+https://localhost:8080/animal_planet_hd_hindi.m3u8
+
+#EXTINF:-1 tvg-id="242" group-title="Discovery" tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-874-j5mcolzc-v1/imageContent-874-j5mcolzc-m1.jpg",Discovery English HD
+https://localhost:8080/discovery_hd_english.m3u8
+
+#EXTINF:-1 tvg-id="242" group-title="Discovery" tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-874-j5mcolzc-v1/imageContent-874-j5mcolzc-m1.jpg",Discovery Hindi HD
+https://localhost:8080/discovery_hd_hindi.m3u8
+
+#EXTINF:-1 tvg-id="554" group-title="Discovery" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkRvcIKZHrAQWPBYj4gmqb42jnU9yP1m2omg&usqp=CAU",Discovery Kids
+https://localhost:8080/discovery_kids_hindi.m3u8
+
+#EXTINF:-1 tvg-id="568" group-title="Discovery" tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-367-j5jo9i3s-v1/imageContent-367-j5jo9i3s-m1.jpg",Discovery Science English
+https://localhost:8080/discovery_science_english.m3u8
+
+#EXTINF:-1 tvg-id="568" group-title="Discovery" tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-367-j5jo9i3s-v1/imageContent-367-j5jo9i3s-m1.jpg",Discovery Science Hindi
+https://localhost:8080/discovery_science_hindi.m3u8
+
+#EXTINF:-1 tvg-id="541" group-title="Discovery" tvg-language="English" tvg-logo="https://te.legra.ph/file/b8670a893a66fa1b5de93.jpg",Discovery Turbo
+https://localhost:8080/discovery_turbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://te.legra.ph/file/5a424d994803247feed18.png" tvg-chno="8" group-title="Discovery",DMAX HD
+https://localhost:8080/dmax_hd.m3u8
+
+#EXTINF:-1 tvg-id="875" group-title="Discovery" tvg-language="English" tvg-logo="https://te.legra.ph/file/588fbda0e490e38dbe544.png",Eurosport HD
+https://localhost:8080/eurosport_hd_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://te.legra.ph/file/cdc56626013f9d5b1c2ba.png" tvg-chno="11" group-title="Discovery",Food Network English
+https://localhost:8080/food_network_hd_english.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Discovery" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAW6TPl2g34-F2So-4sd_M8o2htuwycdExXg&usqp=CAU",HGTV English HD
+https://localhost:8080/hgtv_hd_english.m3u8
+
+#EXTINF:-1 tvg-id="527" group-title="Discovery" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdXeYW_2A057qaGEDVGJNnMwegNuvHLtzAA&usqp=CAU",ID English HD
+https://localhost:8080/id_hd_english.m3u8
+
+#EXTINF:-1 tvg-id="527" group-title="Discovery" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfdXeYW_2A057qaGEDVGJNnMwegNuvHLtzAA&usqp=CAU",ID Hindi HD
+https://localhost:8080/id_hd_hindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://te.legra.ph/file/6db24ed6ea9959c51d758.png" tvg-chno="9" group-title="Discovery",TRVL English HD
+https://localhost:8080/trvl_channel_hd_english.m3u8
+
+#EXTINF:-1 tvg-id="574" group-title="Discovery" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpTlPGk7AcvhW10ei1PJ3iILyOcMwHEgDxw&usqp=CAU",TLC English HD
+https://localhost:8080/tlc_hd_english.m3u8
+
+#EXTINF:-1 tvg-id="571" group-title="Discovery" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpTlPGk7AcvhW10ei1PJ3iILyOcMwHEgDxw&usqp=CAU",TLC Hindi HD
+https://localhost:8080/tlc_hd_hindi.m3u8
